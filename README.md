@@ -1,2 +1,2 @@
 # Phone-Review
-SmarthPhone Revires
+SmarthPhone Reviews
